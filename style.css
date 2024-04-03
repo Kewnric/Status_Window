@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/background.jpg);
+  background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -47,7 +47,7 @@ body {
   margin-left: 14px;
   position: fixed;
   transition: ease-in-out .3s;
-  background-image: url(/Status_Open-Logo.png);
+  background-image: url(Status_Open-Logo.png);
   background-repeat: no-repeat;
   background-size: 120px;
   background-position: -11px -72px;
@@ -67,7 +67,7 @@ body {
   margin-left: 62px;
   position: fixed;
   transition: ease-in-out .3s;
-  background-image: url(/Status_Open-Logo_Extension.png);
+  background-image: url(Status_Open-Logo_Extension.png);
   background-repeat: no-repeat;
   background-size: 65px;
   background-position: 10px 12px; /* Horizontal.px, Vertical.px || (+).px is down, (-).px is up*/
@@ -107,7 +107,7 @@ body {
   rotate: 180deg;
   position: fixed;
   transition: ease-in-out .3s;
-  background-image: url(/Pointer.png);
+  background-image: url(Pointer.png);
   background-repeat: no-repeat;
   background-size: 38px;
   background-position: -2px -4.4px; /* Horizontal.px, Vertical.px || (+).px is down, (-).px is up*/
@@ -141,7 +141,7 @@ body {
   margin-left: 384px;
   position: fixed;
   transition: ease-in-out .3s;
-  background-image: url(/Status_Open-Logo_Extension.png);
+  background-image: url(Status_Open-Logo_Extension.png);
   background-repeat: no-repeat;
   background-size: 65px;
   background-position: 10px 12px; /* Horizontal.px, Vertical.px || (+).px is down, (-).px is up*/
@@ -164,7 +164,7 @@ body {
   margin-left: 414px;
   position: fixed;
   transition: ease-in-out .3s;
-  background-image: url(/Pointer.png);
+  background-image: url(Pointer.png);
   background-repeat: no-repeat;
   background-size: 34px;
   background-position: -2px -4.4px; /* Horizontal.px, Vertical.px || (+).px is down, (-).px is up*/
@@ -247,7 +247,7 @@ body {
   flex-direction: column;
 }
 .STATUS_WINDOW-CONTENT_PHASE-ONE_ITEMS {  
-  background-image: url(/select_background.png);
+  background-image: url(select_background.png);
   background-repeat: no-repeat;
   background-position: 62px;
   background-color: blue;
